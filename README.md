@@ -1,6 +1,7 @@
 # OpenBrainGraph
 Topological view of the human brain, constructed with Cytoscape.
 
+![Open brain graph with legend](https://raw.githubusercontent.com/GeriLife/OpenBrainGraph/master/images/OpenBrainGraph-withLegend.png)
 
 # Instructions
 In order to view and edit the network file:
