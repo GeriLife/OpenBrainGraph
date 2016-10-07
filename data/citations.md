@@ -9,6 +9,10 @@ Dickerson, B. C., & Atri, A. (2014). Dementia: Comprehensive Principles and Prac
 ### Putamen
 Putamen. (2016, June 13). In Wikipedia, The Free Encyclopedia. Retrieved 21:32, August 4, 2016, from https://en.wikipedia.org/w/index.php?title=Putamen&oldid=725078141
 
+## Thalamus
+Loureiro, M. et al. The Ventral Midline Thalamus (Reuniens and Rhomboid Nuclei) Contributes to the Persistence of Spatial Memory in Rats. J. Neurosci. 32, 9947–9959 (2012).
+
+
 # Related documents
 Niu, H., Wang, J., Zhao, T., Shu, N., & He, Y. (2012). [Revealing Topological Organization of Human Brain Functional Networks with Resting-State Functional near Infrared Spectroscopy](http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0045771.PDF). PLoS ONE, 7(9).
 
