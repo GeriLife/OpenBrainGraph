@@ -1,0 +1,917 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.4.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "Brain",
+    "name" : "Basal ganglia",
+    "SUID" : 52,
+    "__Annotations" : [ "" ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "321",
+        "shared_name" : "memory processing",
+        "name" : "memory processing",
+        "SUID" : 321,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -611.3099063788833,
+        "y" : -254.35887439981158
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "312",
+        "shared_name" : "Early Alzheimer's Disease",
+        "name" : "Early Alzheimer's Disease",
+        "SUID" : 312,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -779.3104766472678,
+        "y" : -60.386929246684275
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "308",
+        "shared_name" : "Apathy",
+        "name" : "Apathy",
+        "SUID" : 308,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -703.3341156378883,
+        "y" : -18.99257469177246
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "294",
+        "shared_name" : "Kleine-Levin Syndrome",
+        "name" : "Kleine-Levin Syndrome",
+        "SUID" : 294,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -836.0237426757812,
+        "y" : -172.96865238105238
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "292",
+        "shared_name" : "working memory",
+        "name" : "working memory",
+        "SUID" : 292,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -806.7964293687546,
+        "y" : -207.7414764031273
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "285",
+        "shared_name" : "ADHD",
+        "name" : "ADHD",
+        "SUID" : 285,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -566.0632140367234,
+        "y" : -205.39483329941865
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "281",
+        "shared_name" : "spatial working memory",
+        "name" : "spatial working memory",
+        "SUID" : 281,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -788.1430480210984,
+        "y" : -238.5859619513649
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "262",
+        "shared_name" : "Amnestic Mild Cognitive Impairment",
+        "name" : "Amnestic Mild Cognitive Impairment",
+        "SUID" : 262,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -785.7410278320312,
+        "y" : -122.90442501152573
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "249",
+        "shared_name" : "Spatial Memory",
+        "name" : "Spatial Memory",
+        "SUID" : 249,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -725.5534576042992,
+        "y" : -271.4145812988281
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "shared_name" : "pars reticularis",
+        "name" : "pars reticularis",
+        "SUID" : 95,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -615.4555970455958,
+        "y" : 121.36106872558594
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "shared_name" : "pars compacta",
+        "name" : "pars compacta",
+        "SUID" : 94,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -273.5406187747167,
+        "y" : 115.40533447265625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "shared_name" : "Striatum",
+        "name" : "Striatum",
+        "SUID" : 93,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -432.9097412240246,
+        "y" : 41.948724865135965
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "shared_name" : "External globus pallidus",
+        "name" : "External globus pallidus",
+        "SUID" : 92,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -266.6379700924708,
+        "y" : -22.04193115234375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "shared_name" : "Internal globus pallidus",
+        "name" : "Internal globus pallidus",
+        "SUID" : 91,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -431.86468505859375,
+        "y" : -91.2981263424708
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "shared_name" : "Thalamus",
+        "name" : "Thalamus",
+        "SUID" : 90,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -640.2223694593705,
+        "y" : -144.66223751152575
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "shared_name" : "Subthalamic nucleus",
+        "name" : "Subthalamic nucleus",
+        "SUID" : 89,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -267.8218992922948,
+        "y" : -171.0546112060547
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88",
+        "shared_name" : "Cortex",
+        "name" : "Cortex",
+        "SUID" : 88,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -522.6221311041209,
+        "y" : -45.407440185546875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "shared_name" : "Dorsal-putamen",
+        "name" : "Dorsal-putamen",
+        "SUID" : 73,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -44.283477539667786,
+        "y" : 221.54739367706046
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "shared_name" : "Ventral-putamen",
+        "name" : "Ventral-putamen",
+        "SUID" : 74,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -152.00360095245108,
+        "y" : 41.19720458984375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "shared_name" : "Mid-putamen",
+        "name" : "Mid-putamen",
+        "SUID" : 75,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -252.92767333984375,
+        "y" : 232.36563098174796
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "shared_name" : "Sensimotor cortex",
+        "name" : "Sensimotor cortex",
+        "SUID" : 87,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -158.22311413543954,
+        "y" : 141.64105236786142
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "shared_name" : "Parietal intermodality sensory association cortex",
+        "name" : "Parietal intermodality sensory association cortex",
+        "SUID" : 86,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -145.69720446807608,
+        "y" : 323.0934752200292
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "shared_name" : "Caudate nucleus",
+        "name" : "Caudate nucleus",
+        "SUID" : 85,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -502.3716145746086,
+        "y" : 260.6930989626957
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "shared_name" : "Prefrontal cortex",
+        "name" : "Prefrontal cortex",
+        "SUID" : 84,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -585.9613362542962,
+        "y" : 327.2901448611332
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "shared_name" : "Posterior parietal cortex",
+        "name" : "Posterior parietal cortex",
+        "SUID" : 83,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -505.1018391839836,
+        "y" : 151.97582906523473
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "shared_name" : "Superior temporal polymodal cortex",
+        "name" : "Superior temporal polymodal cortex",
+        "SUID" : 82,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -406.1618957519531,
+        "y" : 336.2375630740238
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "shared_name" : "Orbital prefrontal cortex",
+        "name" : "Orbital prefrontal cortex",
+        "SUID" : 81,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11.78601658600107,
+        "y" : 122.92362976074219
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "shared_name" : "Medial prefrontal cortex",
+        "name" : "Medial prefrontal cortex",
+        "SUID" : 80,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -105.2074052120997,
+        "y" : -134.3009490966797
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "shared_name" : "Cingulate gyrus",
+        "name" : "Cingulate gyrus",
+        "SUID" : 79,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -54.32362353545888,
+        "y" : -19.40688537016301
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "shared_name" : "Ventral striatum",
+        "name" : "Ventral striatum",
+        "SUID" : 78,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 29.159629943545017,
+        "y" : -69.52705322416946
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "323",
+        "source" : "321",
+        "target" : "90",
+        "shared_name" : "memory processing (interacts with) Thalamus",
+        "shared_interaction" : "related to",
+        "name" : "memory processing (interacts with) Thalamus",
+        "interaction" : "related to",
+        "SUID" : 323,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "316",
+        "source" : "312",
+        "target" : "90",
+        "shared_name" : "Early Alzheimer's Disease (interacts with) Thalamus",
+        "shared_interaction" : "related to",
+        "name" : "Early Alzheimer's Disease (interacts with) Thalamus",
+        "interaction" : "related to",
+        "SUID" : 316,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "314",
+        "source" : "308",
+        "target" : "312",
+        "shared_name" : "Apathy (interacts with) Early Alzheimer's Disease",
+        "shared_interaction" : "related to",
+        "name" : "Apathy (interacts with) Early Alzheimer's Disease",
+        "interaction" : "related to",
+        "SUID" : 314,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "310",
+        "source" : "308",
+        "target" : "90",
+        "shared_name" : "Apathy (interacts with) Thalamus",
+        "shared_interaction" : "related to",
+        "name" : "Apathy (interacts with) Thalamus",
+        "interaction" : "related to",
+        "SUID" : 310,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "300",
+        "source" : "294",
+        "target" : "90",
+        "shared_name" : "Kleine Levin Syndrome (interacts with) Thalamus",
+        "shared_interaction" : "related to",
+        "name" : "Kleine Levin Syndrome (interacts with) Thalamus",
+        "interaction" : "related to",
+        "SUID" : 300,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "298",
+        "source" : "294",
+        "target" : "292",
+        "shared_name" : "Kleine Levin Syndrome (interacts with) working memory",
+        "shared_interaction" : "related to",
+        "name" : "Kleine Levin Syndrome (interacts with) working memory",
+        "interaction" : "related to",
+        "SUID" : 298,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "296",
+        "source" : "292",
+        "target" : "90",
+        "shared_name" : "working memory (interacts with) Thalamus",
+        "shared_interaction" : "related to",
+        "name" : "working memory (interacts with) Thalamus",
+        "interaction" : "related to",
+        "SUID" : 296,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "287",
+        "source" : "285",
+        "target" : "90",
+        "shared_name" : "ADHD (interacts with) Thalamus",
+        "shared_interaction" : "related to",
+        "name" : "ADHD (interacts with) Thalamus",
+        "interaction" : "related to",
+        "SUID" : 287,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "283",
+        "source" : "281",
+        "target" : "90",
+        "shared_name" : "spatial working memory (interacts with) Thalamus",
+        "shared_interaction" : "related to",
+        "name" : "spatial working memory (interacts with) Thalamus",
+        "interaction" : "related to",
+        "SUID" : 283,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "270",
+        "source" : "262",
+        "target" : "90",
+        "shared_name" : "Amnestic Mild Cognitive Impairment (interacts with) Thalamus",
+        "shared_interaction" : "related to",
+        "name" : "Amnestic Mild Cognitive Impairment (interacts with) Thalamus",
+        "interaction" : "related to",
+        "SUID" : 270,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "source" : "95",
+        "target" : "90",
+        "shared_name" : "pars reticularis (interacts with) Thalamus",
+        "mode" : "inhibitory",
+        "shared_interaction" : "interacts with",
+        "name" : "pars reticularis (interacts with) Thalamus",
+        "interaction" : "interacts with",
+        "pathway" : "direct",
+        "SUID" : 118,
+        "neurotransmitter" : "GABA",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "source" : "94",
+        "target" : "92",
+        "shared_name" : "pars compacta (interacts with) External globus pallidus",
+        "mode" : "dis-disinhibitory",
+        "shared_interaction" : "interacts with",
+        "name" : "pars compacta (interacts with) External globus pallidus",
+        "interaction" : "interacts with",
+        "pathway" : "indirect",
+        "SUID" : 117,
+        "neurotransmitter" : "GABA",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "source" : "94",
+        "target" : "93",
+        "shared_name" : "pars compacta (interacts with) Striatum",
+        "mode" : "excitatory",
+        "shared_interaction" : "interacts with",
+        "name" : "pars compacta (interacts with) Striatum",
+        "interaction" : "interacts with",
+        "pathway" : "direct",
+        "SUID" : 116,
+        "neurotransmitter" : "Dopanime",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "115",
+        "source" : "93",
+        "target" : "95",
+        "shared_name" : "Striatum (interacts with) pars reticularis",
+        "mode" : "inhibitory",
+        "shared_interaction" : "interacts with",
+        "name" : "Striatum (interacts with) pars reticularis",
+        "interaction" : "interacts with",
+        "pathway" : "",
+        "SUID" : 115,
+        "neurotransmitter" : "GABA",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "114",
+        "source" : "93",
+        "target" : "91",
+        "shared_name" : "Striatum (interacts with) Internal globus pallidus",
+        "mode" : "disinhibitory",
+        "shared_interaction" : "interacts with",
+        "name" : "Striatum (interacts with) Internal globus pallidus",
+        "interaction" : "interacts with",
+        "pathway" : "direct",
+        "SUID" : 114,
+        "neurotransmitter" : "GABA",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "source" : "92",
+        "target" : "89",
+        "shared_name" : "External globus pallidus (interacts with) Subthalamic nucleus",
+        "mode" : "disinhibitory",
+        "shared_interaction" : "interacts with",
+        "name" : "External globus pallidus (interacts with) Subthalamic nucleus",
+        "interaction" : "interacts with",
+        "pathway" : "indirect",
+        "SUID" : 113,
+        "neurotransmitter" : "GABA",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "source" : "91",
+        "target" : "90",
+        "shared_name" : "Internal globus pallidus (interacts with) Thalamus",
+        "mode" : "inhibitory",
+        "shared_interaction" : "interacts with",
+        "name" : "Internal globus pallidus (interacts with) Thalamus",
+        "interaction" : "interacts with",
+        "pathway" : "",
+        "SUID" : 112,
+        "neurotransmitter" : "GABA",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "251",
+        "source" : "90",
+        "target" : "249",
+        "shared_name" : "Thalamus (interacts with) Memory",
+        "shared_interaction" : "related to",
+        "name" : "Thalamus (interacts with) Memory",
+        "interaction" : "related to",
+        "SUID" : 251,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "source" : "90",
+        "target" : "88",
+        "shared_name" : "Thalamus (interacts with) Cortex",
+        "mode" : "excitatory",
+        "shared_interaction" : "interacts with",
+        "name" : "Thalamus (interacts with) Cortex",
+        "interaction" : "interacts with",
+        "pathway" : "",
+        "SUID" : 111,
+        "neurotransmitter" : "Glutamine",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "110",
+        "source" : "89",
+        "target" : "91",
+        "shared_name" : "Subthalamic nucleus (interacts with) Internal globus pallidus",
+        "mode" : "excitatory",
+        "shared_interaction" : "interacts with",
+        "name" : "Subthalamic nucleus (interacts with) Internal globus pallidus",
+        "interaction" : "interacts with",
+        "pathway" : "direct",
+        "SUID" : 110,
+        "neurotransmitter" : "Glutamine",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "109",
+        "source" : "88",
+        "target" : "93",
+        "shared_name" : "Cortex (interacts with) Striatum",
+        "mode" : "excitatory",
+        "shared_interaction" : "interacts with",
+        "name" : "Cortex (interacts with) Striatum",
+        "interaction" : "interacts with",
+        "pathway" : "direct",
+        "SUID" : 109,
+        "neurotransmitter" : "Glutamine",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "108",
+        "source" : "87",
+        "target" : "75",
+        "shared_name" : "Sensimotor cortex (interacts with) Mid-putamen",
+        "mode" : "",
+        "shared_interaction" : "interacts with",
+        "name" : "Sensimotor cortex (interacts with) Mid-putamen",
+        "interaction" : "interacts with",
+        "pathway" : "",
+        "SUID" : 108,
+        "neurotransmitter" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "107",
+        "source" : "87",
+        "target" : "73",
+        "shared_name" : "Sensimotor cortex (interacts with) Dorsal-putamen",
+        "mode" : "",
+        "shared_interaction" : "interacts with",
+        "name" : "Sensimotor cortex (interacts with) Dorsal-putamen",
+        "interaction" : "interacts with",
+        "pathway" : "",
+        "SUID" : 107,
+        "neurotransmitter" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "source" : "86",
+        "target" : "73",
+        "shared_name" : "Parietal intermodality sensory association cortex (interacts with) Dorsal-putamen",
+        "mode" : "",
+        "shared_interaction" : "interacts with",
+        "name" : "Parietal intermodality sensory association cortex (interacts with) Dorsal-putamen",
+        "interaction" : "interacts with",
+        "pathway" : "",
+        "SUID" : 106,
+        "neurotransmitter" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "source" : "86",
+        "target" : "75",
+        "shared_name" : "Parietal intermodality sensory association cortex (interacts with) Mid-putamen",
+        "mode" : "",
+        "shared_interaction" : "interacts with",
+        "name" : "Parietal intermodality sensory association cortex (interacts with) Mid-putamen",
+        "interaction" : "interacts with",
+        "pathway" : "",
+        "SUID" : 105,
+        "neurotransmitter" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "source" : "84",
+        "target" : "85",
+        "shared_name" : "Prefrontal cortex (interacts with) Caudate nucleus",
+        "mode" : "",
+        "shared_interaction" : "interacts with",
+        "name" : "Prefrontal cortex (interacts with) Caudate nucleus",
+        "interaction" : "interacts with",
+        "pathway" : "",
+        "SUID" : 104,
+        "neurotransmitter" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "source" : "83",
+        "target" : "85",
+        "shared_name" : "Posterior parietal cortex (interacts with) Caudate nucleus",
+        "mode" : "",
+        "shared_interaction" : "interacts with",
+        "name" : "Posterior parietal cortex (interacts with) Caudate nucleus",
+        "interaction" : "interacts with",
+        "pathway" : "",
+        "SUID" : 103,
+        "neurotransmitter" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "source" : "82",
+        "target" : "85",
+        "shared_name" : "Superior temporal polymodal cortex (interacts with) Caudate nucleus",
+        "mode" : "",
+        "shared_interaction" : "interacts with",
+        "name" : "Superior temporal polymodal cortex (interacts with) Caudate nucleus",
+        "interaction" : "interacts with",
+        "pathway" : "",
+        "SUID" : 102,
+        "neurotransmitter" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "source" : "81",
+        "target" : "74",
+        "shared_name" : "Orbital prefrontal cortex (interacts with) Ventral-putamen",
+        "mode" : "",
+        "shared_interaction" : "interacts with",
+        "name" : "Orbital prefrontal cortex (interacts with) Ventral-putamen",
+        "interaction" : "interacts with",
+        "pathway" : "",
+        "SUID" : 101,
+        "neurotransmitter" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "source" : "81",
+        "target" : "78",
+        "shared_name" : "Orbital prefrontal cortex (interacts with) Ventral striatum",
+        "mode" : "",
+        "shared_interaction" : "interacts with",
+        "name" : "Orbital prefrontal cortex (interacts with) Ventral striatum",
+        "interaction" : "interacts with",
+        "pathway" : "",
+        "SUID" : 100,
+        "neurotransmitter" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "source" : "80",
+        "target" : "74",
+        "shared_name" : "Medial prefrontal cortex (interacts with) Ventral-putamen",
+        "mode" : "",
+        "shared_interaction" : "interacts with",
+        "name" : "Medial prefrontal cortex (interacts with) Ventral-putamen",
+        "interaction" : "interacts with",
+        "pathway" : "",
+        "SUID" : 99,
+        "neurotransmitter" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "source" : "80",
+        "target" : "78",
+        "shared_name" : "Medial prefrontal cortex (interacts with) Ventral striatum",
+        "mode" : "",
+        "shared_interaction" : "interacts with",
+        "name" : "Medial prefrontal cortex (interacts with) Ventral striatum",
+        "interaction" : "interacts with",
+        "pathway" : "",
+        "SUID" : 98,
+        "neurotransmitter" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "source" : "79",
+        "target" : "74",
+        "shared_name" : "Cingulate gyrus (interacts with) Ventral-putamen",
+        "mode" : "",
+        "shared_interaction" : "interacts with",
+        "name" : "Cingulate gyrus (interacts with) Ventral-putamen",
+        "interaction" : "interacts with",
+        "pathway" : "",
+        "SUID" : 97,
+        "neurotransmitter" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "source" : "79",
+        "target" : "78",
+        "shared_name" : "Cingulate gyrus (interacts with) Ventral striatum",
+        "mode" : "",
+        "shared_interaction" : "interacts with",
+        "name" : "Cingulate gyrus (interacts with) Ventral striatum",
+        "interaction" : "interacts with",
+        "pathway" : "",
+        "SUID" : 96,
+        "neurotransmitter" : "",
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}
