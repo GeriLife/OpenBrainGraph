@@ -7,7 +7,7 @@ Basal ganglia. (2016, June 7). In Wikipedia, The Free Encyclopedia. Retrieved 18
 Dickerson, B. C., & Atri, A. (2014). Dementia: Comprehensive Principles and Practice. Oxford University Press.
 
 ### Putamen
-[Putamen.](https://en.wikipedia.org/wiki/Putamen Wikipedia, the free encyclopedia (2016).
+[Putamen.](https://en.wikipedia.org/wiki/Putamen) Wikipedia, the free encyclopedia (2016).
 
 
 ## Thalamus
