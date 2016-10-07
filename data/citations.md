@@ -17,6 +17,8 @@ Loureiro, M. et al. [The Ventral Midline Thalamus (Reuniens and Rhomboid Nuclei)
 
 Mills, K. L. et al. [Altered cortico-striatal–thalamic connectivity in relation to spatial working memory capacity in children with ADHD.](http://journal.frontiersin.org/article/10.3389/fpsyt.2012.00002/full) Front. Psychiatry 3, 2 (2012).
 
+Torso, M. et al. [Strategic Lesions in the Anterior Thalamic Radiation and Apathy in Early Alzheimer’s Disease.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0124998) PLOS ONE 10, e0124998 (2015).
+
 Vigren, P. et al. [Low Thalamic NAA-Concentration Corresponds to Strong Neural Activation in Working Memory in Kleine-Levin Syndrome.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056279) PLOS ONE 8, e56279 (2013).
 
 # Related documents
