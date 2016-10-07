@@ -7,7 +7,8 @@ Basal ganglia. (2016, June 7). In Wikipedia, The Free Encyclopedia. Retrieved 18
 Dickerson, B. C., & Atri, A. (2014). Dementia: Comprehensive Principles and Practice. Oxford University Press.
 
 ### Putamen
-Putamen. (2016, June 13). In Wikipedia, The Free Encyclopedia. Retrieved 21:32, August 4, 2016, from https://en.wikipedia.org/w/index.php?title=Putamen&oldid=725078141
+[Putamen.](https://en.wikipedia.org/wiki/Putamen Wikipedia, the free encyclopedia (2016).
+
 
 ## Thalamus
 Cai, S. et al. [Changes in Thalamic Connectivity in the Early and Late Stages of Amnestic Mild Cognitive Impairment: A Resting-State Functional Magnetic Resonance Study from ADNI.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115573) PLOS ONE 10, e0115573 (2015).
