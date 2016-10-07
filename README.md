@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/23748/GeriLife/OpenBrainGraph.svg)](https://zenodo.org/badge/latestdoi/23748/GeriLife/OpenBrainGraph)
+
 # OpenBrainGraph
 Topological view of the human brain, constructed with Cytoscape.
 
